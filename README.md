@@ -1,2 +1,2 @@
-# CRUB-Project-React
-My CRUB project using React.js, Express.js, MySQL
+# CRUD-Project-React
+My CRUD project using React.js, Express.js, MySQL
